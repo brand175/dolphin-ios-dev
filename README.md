@@ -2,10 +2,6 @@
 
 Unoffical build of DolphiniOS Please use (https://github.com/OatmealDome/dolphin-ios/tree/master)
 
-Open terminal
-
-cd dolphin-ios
-git submodule update --init --recursive
 
 Open DolphiniOS in Xcode
 
