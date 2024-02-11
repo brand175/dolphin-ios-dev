@@ -1,6 +1,8 @@
 # DolphiniOS
 
-Changes I made : Updated To MoltenVK 1.2.7 with included Vulkan folder, Modified LazyMemoryRegion to work on iOS, fixed up CMakeList's for iOS, Removed iOS StoppedReason Motor function so FMT can work.
+Changes that have been made : Updated To MoltenVK 1.2.7 with included Vulkan folder, Modified LazyMemoryRegion to work on iOS, fixed up CMakeList's for iOS, Removed iOS StoppedReason Motor function so FMT can work.
+
+Known issues: Disc doesn't auto change. MoltenVK (Vulkan) has color issues.
 
 TESTING PURPOSES ONLY --- PLEASE USE OFFICAL iOS BUILD (https://github.com/OatmealDome/dolphin-ios)
 
